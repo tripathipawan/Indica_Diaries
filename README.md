@@ -2,7 +2,7 @@
 
 A clean, premium, and fully responsive link-in-bio page for **Indica Diaries** — a content creation brand sharing stories, ideas and updates from India. Built with pure HTML, CSS, and JavaScript, this single-page site centralizes all social media, newsletters and professional profile links in one shareable URL.
 
-**🔗 Live Demo:** [your-project.vercel.app](https://your-project.vercel.app/)
+**🔗 Live Demo:** [https://indicadiaries.vercel.app/](https://indicadiaries.vercel.app/)
 
 ---
 
